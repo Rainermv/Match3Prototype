@@ -1,0 +1,2 @@
+#RULE regra1 1 1 = 2
+#RULE regra2 2 ( 1 + 2 ) = 3

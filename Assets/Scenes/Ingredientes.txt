@@ -1,0 +1,17 @@
+Queimado 				- 0
+
+Livros de receitas Azul			- 1
+Livros de receitas Vermelho		- 2
+Livros de receitas Amarelo-Dourado	- 3
+
+Ovo					- 4			
+Açucar					- 5
+Farinha					- 6
+Manteiga				- 7
+Clara em neve				- 8
+Massa de bolo				- 9
+Bolo					- 10
+Torta					- 11
+Suco					- 12
+Macarron				- 13
+Donuts					- 14	

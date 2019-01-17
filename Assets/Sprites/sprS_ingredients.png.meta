@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 49fc250deeda5ae4492dd30a8b7386d3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprS_ingredients_0
+    21300002: sprS_ingredients_1
+    21300004: sprS_ingredients_2
+    21300006: sprS_ingredients_3
+    21300008: sprS_ingredients_4
+    21300010: sprS_ingredients_5
+    21300012: sprS_ingredients_6
+    21300014: sprS_ingredients_7
+    21300016: sprS_ingredients_8
+    21300018: sprS_ingredients_9
+    21300020: sprS_ingredients_10
+    21300022: sprS_ingredients_11
+    21300024: sprS_ingredients_12
+    21300026: sprS_ingredients_13
+    21300028: sprS_ingredients_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 102
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprS_ingredients_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 231
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 219
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 230
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 109
+        width: 93
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 119
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 119
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 114
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 4
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 6
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprS_ingredients_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 7
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

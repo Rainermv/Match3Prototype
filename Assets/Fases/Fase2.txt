@@ -1,0 +1,65 @@
+// LEVEL HEADER
+
+
+// configuration
+
+
+//random level
+
+//#R
+
+
+// lock interface tools
+
+#lock_and
+
+#lock_or
+
+#lock_teo
+
+#lock_imp
+
+#lock_switcher
+
+//#lock_selector
+
+
+// score parameters
+
+score 10
+
+tr_score1 1.5
+
+tr_score2 3
+
+tr_burn 2
+
+tr_lost 5
+
+
+// starting ingredients on the grid(if not random)
+
+G 8 14 9 12 8 14 9 12
+
+G 8 12 9 12 14 12 9 14
+
+G 14 8 13 8 12 8 14 9
+
+G 12 14 9 12 9 12 9 12
+
+G 8 14 9 9 14 8 13 9
+
+G 14 12 12 14 12 12 14 9
+
+
+// ingredients of the level (renewed)
+
+I 12
+I 14
+
+I 8
+I 9
+// requests (pedidos) of the level
+P 12
+
+P 14
